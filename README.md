@@ -1,0 +1,1 @@
+# obsidian-import-embed-all-files
